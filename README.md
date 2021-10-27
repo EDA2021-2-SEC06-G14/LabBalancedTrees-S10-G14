@@ -16,3 +16,10 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 -Test
 Este directorio contiene las pruebas realizadas a los TADs, Estructuras de Datos y Algoritmos.
 
+    Sebastian Guerrero Rios
+        Correo: s.guerrero3@uniandes.edu.co
+        Codigo: 202021249
+
+    Diego Alejandro González Vargas
+        Correo: da.gonzalezv1@uniandes.edu.co
+        Codigo: 202110240
